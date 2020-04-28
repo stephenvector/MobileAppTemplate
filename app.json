@@ -1,0 +1,17 @@
+{
+  "name": "MobileAppTemplate",
+  "displayName": "MobileAppTemplate",
+  "expo": {
+    "name": "MobileAppTemplate",
+    "slug": "MobileAppTemplate",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
