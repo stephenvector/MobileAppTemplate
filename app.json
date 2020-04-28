@@ -1,4 +1,6 @@
 {
+  "name": "MobileAppTemplate",
+  "displayName": "Mobile App Template",
   "expo": {
     "name": "MobileAppTemplateExpo",
     "slug": "MobileAppTemplateExpo",
